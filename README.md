@@ -35,5 +35,3 @@ This project contains 5 intelligent AI tools in one unified interface.
 - Improve savings strategy
 
 ---
-
-## 🏗 Project Structure
